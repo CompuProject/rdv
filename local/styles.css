@@ -1,0 +1,11 @@
+body, body div.bx-yandex-map, .fancybox-title {
+    font: 16px/25px "PT Sans Caption", Arial, sans-serif !important;
+}
+.top_block .wtorder,
+.drag_block.comments {
+    display: none;
+}
+
+.item-views.services-items.icons .items .item .image img {
+    background: transparent !important;
+}
